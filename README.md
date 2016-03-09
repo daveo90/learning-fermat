@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Here wi will guide you step by step, to find all the resources that will allow you to learn about Fermat according to your technical level. We divided this guide into different sections. Plase find a section according to your profile and follow the guidelines in there.
+Here we will guide you step by step, to find all the resources that will allow you to learn about Fermat according to your technical level. We divided this guide into different sections. Plase find a section according to your profile and follow the guidelines found there.
 
 ## Section 1 : Non Technical People
 
